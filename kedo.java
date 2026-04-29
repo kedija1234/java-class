@@ -78,5 +78,6 @@ public class Main {
         Teacher t1 = new Teacher("Mr. John", 40, "Math");
         t1.displayInfo();
         t1.teach();
+        System.out.println("hello kedja")
     }
 }
